@@ -63,10 +63,11 @@ Incluye información demográfica y estadísticas por temporada del desempeño f
 | 📊 **Librerías de análisis** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> <img src="https://matplotlib.org/stable/_static/logo_light.svg" width="40"/> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40"/> |
 | 🤖 **Modelado ML** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Statsmodels_logo.svg" width="80"/> <img src="https://raw.githubusercontent.com/facebook/prophet/main/docs/website/static/img/prophet_logo.png" width="60"/> |
 | 🗄️ **Base de datos** | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/> **SQL Server** |
-| 🔄 **ETL / Conexión** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Pyodbc_logo.png" width="60"/> |
+| 🔄 **ETL / Conexión** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/> |
 | 📈 **Visualización** | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/> **Power BI Desktop** |
 | 🧩 **Control de versiones** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> |
 | 🗂️ **Gestión del proyecto** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> **Trello** |
+
 
 ---
 
