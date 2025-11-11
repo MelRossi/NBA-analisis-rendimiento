@@ -1,4 +1,7 @@
 # Proyecto Final [NBA-analisis-rendimiento]
+
+![Mi Banner](/Images/Image_banner.png)
+
 # 🏀 Decisiones Inteligentes en la NBA: Análisis de Talento y Rendimiento
 
 
