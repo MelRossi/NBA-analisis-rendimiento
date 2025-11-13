@@ -20,18 +20,6 @@ La iniciativa busca **identificar los factores que influyen en el rendimiento de
 - Desarrollar un **pipeline ETL automatizado** y un **modelo de datos en SQL Server**.
 - Crear un **dashboard interactivo en Power BI** para visualizar resultados y KPIs clave.
 
----
-
-## 👥 Equipo de trabajo
-Equipo DAFT18 – Grupo 1
-
-| Integrante | Rol |
-|-------------|------|
-| Felipe Carassale | Data Analyst |
-| Lucy Melo | Data Analyst |
-| Melisa Rossi | Data Analyst |
-| Esteban Mamani | Data Analyst |
-| Camila Pineda | Data Analyst |
 
 ---
 
@@ -74,4 +62,14 @@ Incluye información demográfica y estadísticas por temporada del desempeño f
 
 ---
 
+## 👥 Equipo de trabajo
+Equipo DAFT18 – Grupo 1
+
+| Integrante | Rol |
+|-------------|------|
+| Felipe Carassale | Data Analyst |
+| Lucy Melo | Data Analyst |
+| Melisa Rossi | Data Analyst |
+| Esteban Mamani | Data Analyst |
+| Camila Pineda | Data Analyst |
 
