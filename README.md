@@ -94,7 +94,9 @@ NBA-analisis-rendimiento/
 | 🧩 **Control de versiones** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> |
 | 🗂️ **Gestión del proyecto** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/> **Trello** |
 
-
+---
+### 🎨 Presentación del proyecto
+👉 **[Ver presentación en Canva](https://www.canva.com/design/DAG4V4wmRxY/nnjWHL9lZ7o93kZhJxNlzQ/edit?utm_content=DAG4V4wmRxY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
 ---
 
 ## 👥 Equipo de trabajo
