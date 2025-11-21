@@ -107,7 +107,7 @@ Esta sección incluye los artefactos clave para la presentación formal y las he
 [Ver presentación](https://www.canva.com/design/DAG4_Gjj5LU/WJ5DdFgC2XcLoMs_-qnYkQ/edit?utm_content=DAG4_Gjj5LU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 👉 Dashboard de Análisis (Power BI): Panel de control interactivo diseñado para la exploración detallada de los datos (actualmente en fase de desarrollo).
-[Ver dashboard]()
+[Ver dashboard](Dashboard/Dashboard.pbix)
 
 👉 Aplicación de Streamlit: Prototipo funcional (MVP) de la solución, que permite interactuar directamente con los modelos o análisis principales.
 [Ver streamlit](https://app-rendimiento-nba.streamlit.app/)
