@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="../Images/Informe/image_1.png" width="90%">
+  <img src="../Images/informe/image_1.png" width="90%">
 </p>
 
 ---
@@ -175,7 +175,7 @@ Las visualizaciones fueron desarrolladas en Python y posteriormente integradas a
 # 🏀 **Contexto Histórico de la Liga**
 
 <p align="center">
-  <img src="../Images/Informe/image_2.png" width="85%">
+  <img src="../Images/informe/image_2.png" width="85%">
 </p>
 
 ### 📌 *Hallazgos clave*
@@ -200,7 +200,7 @@ Las visualizaciones fueron desarrolladas en Python y posteriormente integradas a
 # 🧍‍♂️ **Evolución del número de jugadores por temporada**
 
 <p align="center">
-  <img src="../Images/Informe/image_3.png" width="85%">
+  <img src="../Images/informe/image_3.png" width="85%">
 </p>
 
 ### 📌 *Interpretación*
@@ -214,7 +214,7 @@ Las visualizaciones fueron desarrolladas en Python y posteriormente integradas a
 # 📊 **Distribución general del rendimiento por jugador**
 
 <p align="center">
-  <img src="../Images/Informe/image_4.png" width="85%">
+  <img src="../Images/informe/image_4.png" width="85%">
 </p>
 
 ### 📌 *Hallazgos relevantes*
@@ -229,7 +229,7 @@ Las visualizaciones fueron desarrolladas en Python y posteriormente integradas a
 # 🏅 **Top 10 jugadores por eficiencia (Net Rating)**
 
 <p align="center">
-  <img src="../Images/Informe/image_5.png" width="85%">
+  <img src="../Images/informe/image_5.png" width="85%">
 </p>
 
 ### 📌 *Insights*
@@ -242,7 +242,7 @@ Las visualizaciones fueron desarrolladas en Python y posteriormente integradas a
 # 📈 **Tendencia histórica de eficiencia promedio**
 
 <p align="center">
-  <img src="../Images/Informe/image_6.png" width="85%">
+  <img src="../Images/informe/image_6.png" width="85%">
 </p>
 
 ### 📌 *Interpretación*
@@ -255,7 +255,7 @@ Las visualizaciones fueron desarrolladas en Python y posteriormente integradas a
 # 🧩 **Correlación entre métricas clave**
 
 <p align="center">
-  <img src="../Images/Informe/image_7.png" width="85%">
+  <img src="../Images/informe/image_7.png" width="85%">
 </p>
 
 ### 📌 *Conclusiones de correlaciones*
@@ -294,7 +294,7 @@ Cada métrica aporta una capa de análisis clave para scouting, renovación y es
 # 📦 **Distribución del Global Score por Temporada**
 
 <p align="center">
-  <img src="../Images/Informe/image_8.png" width="85%">
+  <img src="../Images/informe/image_8.png" width="85%">
 </p>
 
 ### 📌 *Insights clave*
@@ -311,7 +311,7 @@ La **VARA** representa el valor mínimo que el 10% de los jugadores de un equipo
 Es un indicador de **profundidad del roster**.
 
 <p align="center">
-  <img src="../Images/Informe/image_9.png" width="85%">
+  <img src="../Images/informe/image_9.png" width="85%">
 </p>
 
 ### 📌 *Interpretación estratégica*
@@ -370,7 +370,7 @@ No cumplen los criterios anteriores.
 # 📈 **Distribución de Eficiencia vs. Umbral RMO**
 
 <p align="center">
-  <img src="../Images/Informe/image_10.png" width="85%">
+  <img src="../Images/informe/image_10.png" width="85%">
 </p>
 
 ### 📌 Conclusiones
@@ -383,7 +383,7 @@ No cumplen los criterios anteriores.
 # 🏆 **Top 10 Jugadores con Rendimiento Superior al RMO**
 
 <p align="center">
-  <img src="../Images/Informe/image_11.png" width="85%">
+  <img src="../Images/informe/image_11.png" width="85%">
 </p>
 
 ### 📌 Observaciones clave
@@ -453,7 +453,7 @@ El modelo elegido: **Regresión Lineal Múltiple**, validado con métricas está
 # 📊 **Importancia de Variables**
 
 <p align="center">
-  <img src="../Images/Informe/image_12.png" width="85%">
+  <img src="../Images/informe/image_12.png" width="85%">
 </p>
 
 La importancia relativa revela qué factores influyen más en el rendimiento.
@@ -479,7 +479,7 @@ La importancia relativa revela qué factores influyen más en el rendimiento.
 El clustering permite clasificar jugadores según su estilo, impacto y estadística avanzada.
 
 <p align="center">
-  <img src="../Images/Informe/image_13.png" width="85%">
+  <img src="../Images/informe/image_13.png" width="85%">
 </p>
 
 Se evaluaron múltiples configuraciones y **K=4** produjo la mejor separación de perfiles.
@@ -583,7 +583,7 @@ El dashboard fue diseñado para ofrecer una experiencia interactiva y amigable, 
 - Comparaciones entre temporadas  
 
 <p align="center">
-  <img src="../Images/Informe/image_14.png" width="85%">
+  <img src="../Images/informe/image_14.png" width="85%">
 </p>
 
 ---
@@ -608,7 +608,7 @@ Incluye las métricas clave:
 ## 2️⃣ **Net Rating – Eficiencia Global**
 
 <p align="center">
-  <img src="../Images/Informe/image_15.png" width="85%">
+  <img src="../Images/informe/image_15.png" width="85%">
 </p>
 
 Contiene:
@@ -625,7 +625,7 @@ La eficiencia muestra alta variabilidad anual, afectada por cambios en estilo de
 ## 3️⃣ **RMO – Rendimiento Más Óptimo**
 
 <p align="center">
-  <img src="../Images/Informe/image_16.png" width="85%">
+  <img src="../Images/informe/image_16.png" width="85%">
 </p>
 
 El dashboard calcula:
@@ -642,7 +642,7 @@ Solo **1 de cada 10 jugadores** alcanza rendimiento élite.
 ## 4️⃣ **Clustering – Segmentación de Estilos de Juego**
 
 <p align="center">
-  <img src="../Images/Informe/image_17.png" width="85%">
+  <img src="../Images/informe/image_17.png" width="85%">
 </p>
 
 Incluye:
@@ -772,4 +772,5 @@ Con datos, es posible obtener **ventaja competitiva real** en scouting, planific
 <p align="center">
   <b>🏀 Data + Estrategia = Decisiones Más Inteligentes</b>
 </p>
+
 
