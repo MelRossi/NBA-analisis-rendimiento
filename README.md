@@ -100,8 +100,11 @@ NBA-analisis-rendimiento/
 
 Esta sección incluye los artefactos clave para la presentación formal y las herramientas de análisis desarrolladas:
 
-👉 Presentación Formal (Canva): Archivo de diapositivas que resume el alcance, la metodología y los hallazgos principales del proyecto.
+👉 Presentación Formal - Parte 1 (Canva): Archivo de diapositivas que resume el alcance, la metodología y los hallazgos principales del proyecto.
 [Ver presentación](https://www.canva.com/design/DAG4V4wmRxY/nnjWHL9lZ7o93kZhJxNlzQ/edit?utm_content=DAG4V4wmRxY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
+👉 Presentación Formal - Parte 2 (Canva): Archivo de diapositivas que resume el objetivos y resultados del analisis de todos los datos enmarcados en el proyecto.
+[Ver presentación](https://www.canva.com/design/DAG4_Gjj5LU/WJ5DdFgC2XcLoMs_-qnYkQ/edit?utm_content=DAG4_Gjj5LU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 👉 Dashboard de Análisis (Power BI): Panel de control interactivo diseñado para la exploración detallada de los datos (actualmente en fase de desarrollo).
 [Ver dashboard]()
